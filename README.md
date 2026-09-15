@@ -117,8 +117,8 @@ flowchart TB
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/ninjahatori.git
-cd ninjahatori
+git clone https://github.com/venkataganesh22/GENAI-LangChain.git
+cd GENAI-LangChain
 ```
 
 ### 3. Environment Configuration
@@ -284,7 +284,7 @@ Navigate to `generativeai/` and open any notebook to begin learning!
 
 - **Author**: Venkata Ganesh
 - **Email**: [venkataganeshguthi@gmail.com](mailto:venkataganeshguthi@gmail.com)
-- **GitHub**: [@Guthi-Venkata-Ganesh](https://github.com/Guthi-Venkata-Ganesh)
+- **GitHub**: [@venkataganesh22](https://github.com/venkataganesh22)
 
 ---
 
