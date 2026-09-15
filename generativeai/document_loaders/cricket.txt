@@ -1,0 +1,15 @@
+**What is Cricket?**
+Cricket is a game played with a bat and ball between two teams of 11 players each on a large grass field.
+
+**The Basic Rules**
+
+* **The Pitch:** Played on a 22-yard rectangular strip in the middle of the field with three wooden sticks (wickets) at each end.
+* **Batting and Bowling:** One team bats to score runs, while the other team bowls and fields to stop them and get batters out.
+* **Scoring Runs:** Batters score runs by hitting the ball and running between the wickets, or by hitting the ball to the boundary line (4 runs if it rolls, 6 runs if it flies over).
+* **Getting Out:** Batters can be dismissed in several ways, such as being **bowled** (hitting the stumps), **caught** in the air, or **run out** while running.
+
+**Main Formats**
+
+* **Test Matches:** Played over 5 days.
+* **One Day Internationals (ODIs):** 50 overs per team.
+* **T20 Matches:** A fast-paced game with only 20 overs per team.
