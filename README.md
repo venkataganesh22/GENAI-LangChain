@@ -288,6 +288,3 @@ Navigate to `generativeai/` and open any notebook to begin learning!
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License — feel free to use it for learning, research, and building your own agentic AI applications.
