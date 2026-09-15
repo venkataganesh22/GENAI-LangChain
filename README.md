@@ -8,7 +8,7 @@
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-Flash%20Lite-orange?style=for-the-badge&logo=google&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-Fast%20Inference-purple?style=for-the-badge&logo=speedtest&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Store-red?style=for-the-badge&logo=databricks&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+
 
 **A comprehensive, production-grade masterclass repository covering modern Generative AI, LangChain 1.x, LangGraph Agent architectures, LCEL, RAG, Vector Databases, and Advanced Retrieval strategies.**
 
